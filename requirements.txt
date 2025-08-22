@@ -1,0 +1,12 @@
+streamlit==1.31.0
+fastapi==0.115.0
+uvicorn==0.30.6
+langchain==0.3.1
+langchain-community==0.3.1
+chromadb==0.5.3
+sentence-transformers==3.1.1
+pypdf==5.0.1
+requests==2.32.3
+transformers==4.44.2
+huggingface-hub==0.25.1
+torch==2.7.1
